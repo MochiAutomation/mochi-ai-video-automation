@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Audio and video files
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.mkv
+
+# Temporary files
+temp/
+tmp/
+output/
+cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
