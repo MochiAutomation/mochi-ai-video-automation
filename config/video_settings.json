@@ -1,0 +1,19 @@
+{
+  "video": {
+    "resolution": "1280x720",
+    "frame_rate": 24,
+    "format": "mp4"
+  },
+  "audio": {
+    "format": "mp3",
+    "sample_rate": 44100
+  },
+  "story": {
+    "target_age": "2-5",
+    "default_scenes": 5
+  },
+  "character": {
+    "name": "Mochi",
+    "type": "blue_bunny"
+  }
+}
